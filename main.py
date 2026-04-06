@@ -59,14 +59,8 @@ while True:
         cv2.rectangle(img,(20,225),(170,425),(0,255,0), cv2.FILLED)
         cv2.putText(img, str(totalFingers),(45,375),cv2.FONT_HERSHEY_PLAIN, 10,(225,0,0),25)
 
-
         #overlay = cv2.resize(overlayList[0],(200,200)) #forcing to fit in img
         #img[0:200, 0:200] = overlay #size= 0 to 200 w/h
-
-              
-
-
-
     
     #frame rate
     cTime = time.time()
