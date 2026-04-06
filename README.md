@@ -52,7 +52,7 @@ pip install opencv-python mediapipe
 
 
 ⚠️ Requirements
-Python 3.10 / 3.11 recommended
+Python 3.10 recommended
 Webcam access
 Good lighting for accurate detection
 
