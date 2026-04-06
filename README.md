@@ -36,10 +36,9 @@ finger_counter/
 🔹 Finger Detection Logic
 - Thumb → compared using x-axis
 - Other fingers → compared using y-axis
-🔹 Finger Counting
+🔹 Finger Counting: totalFingers = fingers.count(1)
 
 ```python
-totalFingers = fingers.count(1)
 
 ⚙️ Installation
 1. Clone the repository
